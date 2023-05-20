@@ -70,4 +70,4 @@ There are two ways to use remote repositories for this method, via htpps and ssh
 > I hope this helps you get started with Git via the terminal!
 
 
-[git]:[https://git-scm.com/docs]
+[git]:[https://git-scm.com/docs/git]
